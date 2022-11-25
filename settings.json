@@ -1,0 +1,24 @@
+{
+  "public": {
+    "cloudinary": {
+      "cloudName": ""
+    }
+  },
+  "cloudinary": {
+    "api_key": "",
+    "api_secret": ""
+  },
+
+  "monti": {
+    "appId": "",
+    "appSecret": ""
+  },
+  "packages": {
+    "quave:email-postmark": {
+      "from": "",
+      "apiToken": ""
+    }
+  },
+  "googleClientId": "",
+  "googleSecret": ""
+}
